@@ -1,0 +1,13 @@
+package com.senai.product_api;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ProdutctApiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
